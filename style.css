@@ -1,0 +1,17 @@
+body {
+    background-color: cyan;
+}
+
+canvas{
+    background: black;
+    display: block;
+    margin: 0 auto;
+}
+
+.form {
+    text-align: center;
+    margin: 30px;
+
+
+ 
+}
